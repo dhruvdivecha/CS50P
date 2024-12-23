@@ -1,11 +1,7 @@
 
-Video URL:
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 # **Student Email Generator GUI**
+
+Video Demo: https://youtu.be/PRjr7Hf5srQ
 
 Name: Dhruv Hitesh Divecha
 
