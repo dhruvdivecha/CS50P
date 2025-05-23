@@ -1,6 +1,6 @@
 # 🎓 CS50P: Introduction to Programming with Python
 
-![CS50P Certificate](https://cs50.harvard.edu/certificates/f6f97dca-dd87-4b44-b43f-da308f316ea5)
+![CS50P Certificate](https://cs50.harvard.edu/certificates/f6f97dca-dd87-4b44-b43f-da308f316ea5.png?size=letter)
 
 ## 📜 Certificate of Completion
 
